@@ -3,22 +3,22 @@
 ### Tech Stack
 
 This app was built with:\
-●	[Create React App](https://github.com/facebook/create-react-app)\
-●	[Bootstrap](https://getbootstrap.com/)\
-●	[React localization](https://www.npmjs.com/package/react-localization)
+● [Create React App](https://github.com/facebook/create-react-app)\
+● [Bootstrap](https://getbootstrap.com/)\
+● [React localization](https://www.npmjs.com/package/react-localization)
 
 ### Functionalities
 
 This app has the following functionalities:\
-●	Display a table which contains three fields: "Student Name", "Score" and "Class"\
-●	Create a record to the table\
-●	Filter records by score and class\
-●	Delete a record from the table\
-●	Label translation
+● Display a table which contains three fields: "Student Name", "Score" and "Class"\
+● Create a record to the table\
+● Filter records by score and class\
+● Delete a record from the table\
+● Label translation
 
 ### Depolyed URL
 
-This app was deployed at [https://exam-score-sheet.vercel.app/](https://exam-score-sheet.vercel.app/)
+This app was deployed at [https://exam-score-sheet.vercel.app/](https://examsheet.vercel.app/)
 
 ## How To Use
 
